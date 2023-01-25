@@ -1,0 +1,19 @@
+{
+  "name": "dubom",
+  "version": "1.0.0",
+  "description": "Landing page para conversão de vendas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusCBarreto/dubomSalgados.git"
+  },
+  "author": "Matheus de C Barreto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusCBarreto/dubomSalgados/issues"
+  },
+  "homepage": "https://github.com/MatheusCBarreto/dubomSalgados#readme"
+}
